@@ -1,2 +1,2 @@
-# component-webscraper
-A python webscraper built to read the price and stock data for computer components on Newegg, Amazon, and Manufacturer sites and compare them against a base set of prices on your own site.
+# Computer Component Screen Scraper
+Used to print a spreadsheet daily of updated prices in the form of an inventory log. Sheet is built to check prices against a base set. The base set used here configured as https://builds.cmcn.tech. Links can be added in the PRODUCT_TRACKERS file found in the trackers folder. This was built for my own use so it's configured to my needs. To configure it to your needs a moderate understanding of bs4, python 3, MIME, and more are necessary.
